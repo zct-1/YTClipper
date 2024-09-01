@@ -39,4 +39,4 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: output
-        path: output
+        path: -c:e copy output.mp4
